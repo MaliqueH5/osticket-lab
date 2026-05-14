@@ -44,7 +44,7 @@ By completing this lab, you will:
 
 ### Ticket Lifecycle Example
 
-Add a screenshot of an open or resolved ticket here:
+![image alt](https://github.com/MaliqueH5/osticket-lab/blob/main/Screenshot%202026-05-14%20at%2019-29-34%20My%20Helpdesk.png?raw=true)
 
 ```md
 
