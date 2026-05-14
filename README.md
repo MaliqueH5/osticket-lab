@@ -36,7 +36,7 @@ Add a screenshot of the public support portal here:
 
 ### Admin Panel
 
-Add a screenshot of the admin ticket dashboard here:
+Add a screenshot of the admin ticket dashboard here:![image alt](https://github.com/MaliqueH5/osticket-lab/blob/main/Screenshot%202026-05-14%20at%2001-49-26%20osTicket%20Agent%20Login.png?raw=true)
 
 ```md
 
